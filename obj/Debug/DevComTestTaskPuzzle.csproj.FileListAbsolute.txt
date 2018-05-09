@@ -1,0 +1,10 @@
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.Properties.Resources.resources
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.csproj.GenerateResource.Cache
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\bin\Debug\DevComTestTaskPuzzle.exe.config
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\bin\Debug\DevComTestTaskPuzzle.exe
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\bin\Debug\DevComTestTaskPuzzle.pdb
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.exe
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.pdb
+C:\Users\Maksymiv\source\repos\DevComTestTaskPuzzle\DevComTestTaskPuzzle\obj\Debug\DevComTestTaskPuzzle.Form1.resources
