@@ -646,7 +646,7 @@ namespace DevComTestTaskPuzzle
 
 
                     elements.Add(new PartofPuzzle(count, CuttedImage));
-                    CuttedImage.Save(count + ".jpg");
+                    //CuttedImage.Save(count + ".jpg");
                     count++;
                 }
             }
